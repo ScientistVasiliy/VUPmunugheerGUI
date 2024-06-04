@@ -1,0 +1,11 @@
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\bin\Release\VUPmunugheerGUI.exe.config
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\bin\Release\VUPmunugheerGUI.exe
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\bin\Release\VUPmunugheerGUI.pdb
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.csproj.AssemblyReference.cache
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.Form1.resources
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.Properties.Resources.resources
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.csproj.GenerateResource.cache
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.csproj.CoreCompileInputs.cache
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.exe
+C:\Users\vasen\source\repos\VUPmunugheerGUI\VUPmunugheerGUI\obj\Release\VUPmunugheerGUI.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VUPmunugheerGUI", "VUPmunugheerGUI\VUPmunugheerGUI.csproj", "{EDCD27C8-B617-43A7-86FC-84E82BAD82FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCD27C8-B617-43A7-86FC-84E82BAD82FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCD27C8-B617-43A7-86FC-84E82BAD82FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCD27C8-B617-43A7-86FC-84E82BAD82FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCD27C8-B617-43A7-86FC-84E82BAD82FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE7690A-1A3E-49CB-81E6-727CFF760950}
+	EndGlobalSection
+EndGlobal
